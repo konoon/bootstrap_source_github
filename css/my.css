@@ -1,0 +1,18 @@
+@charset 'utf-8';
+
+table, th, td {
+    text-align: center;
+}
+
+th {
+    background-color: #ccc;
+    border: 1px solid blue;
+}
+
+tr, td {
+    vertical-align: middle !important;
+}
+
+ul {
+    list-style: none;
+}
